@@ -1,0 +1,13 @@
+body {
+   margin: 0px; /* hace que los otros elementos lleguen al borde*/
+   background-color: rgb(58, 248, 77);
+}
+
+article {
+   padding: 10px;
+   text-align: center;
+}
+
+article ul li{
+   display: inline;
+}
